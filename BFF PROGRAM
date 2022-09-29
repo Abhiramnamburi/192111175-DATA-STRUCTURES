@@ -166,17 +166,3 @@ int main() {
   return 0;
 }
 
-OUTPUT
-
- Enter the number of vertices:1
-
- Enter graph data in matrix form:
-1
-
- Enter the starting vertex:1
-
- The node which are reachable are:
-1
---------------------------------
-Process exited after 9.941 seconds with return value 0
-Press any key to continue . . .
